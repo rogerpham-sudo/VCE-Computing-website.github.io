@@ -99,5 +99,9 @@ body {
   height: 100%;
   width: auto;
   margin-left: -12px;
+}
 
+.subtitle {
+    margin-right: 5rem !important;
+    margin-left: 5rem !important;
 }
