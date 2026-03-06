@@ -75,7 +75,7 @@ body {
 .analysis_box {
   background-color: var(--accent);
   border-radius: 15px;
-  padding: 2rem;
+  padding: 1.5rem;
 }
 
 
@@ -108,4 +108,5 @@ body {
   bottom: 0px;
   padding-top: 8px;
   padding-bottom: 8px;
+
 }
